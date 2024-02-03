@@ -1,4 +1,4 @@
-# UniversityStidentBox
+# UniversityStudentBot
 
 ## Project Description
 
