@@ -2,4 +2,8 @@
 
 ## Project Description
 
-This bot is designed to automatically join online classes, providing convenience and efficiency for remote learning sessions.
+This bot is designed to automatically join online classes, ensuring presence during distance learning.
+
+## Technologies Used
+- Selenium
+- Schedule
